@@ -1,0 +1,24 @@
+# Site settings
+title: Krzysztof Zieliński
+tagline: Small github introduction
+description: Krzysztof Zieliński's special README
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+plugins:
+  - jekyll-seo-tag
+
+# User settings
+username: Krzysztof Zieliński
+user_description: I'm a implementation & integration consultant 
+user_title: Implementation & Integration Consultant
+email: kristofi94@gmail.com
+linkedin_username: krzysztofzielinski94
+github_username:  krzysztofzielinski94
+
+social:
+  name: Krzysztof Zieliński
+  links:
+    - https://www.linkedin.com/in/krzysztofzielinski94
+    - https://github.com/krzysztofzielinski94
+
+exclude: ['package.json', 'src' , 'node_modules']
