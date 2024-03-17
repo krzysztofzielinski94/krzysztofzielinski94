@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning algorithms through ML and games written in Python and Java
-# If you want to stay tuned do not hesitate to tag ⭐ my repository :) 
+
+If you want to stay tuned do not hesitate to tag ⭐ my repository :) 
 
 <!--
 **krzysztofzielinski94/krzysztofzielinski94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
